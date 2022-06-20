@@ -1,0 +1,76 @@
+{
+  "emp-data": [
+    {
+      "id": 1,
+      "name": "Amarjeet Maurya",
+      "age": "25",
+      "address": "vidhi Apartment ",
+      "department": "Software Developer",
+      "salary": "25000",
+      "isMarried": true
+    },
+    {
+      "name": "Rohan",
+      "age": "25",
+      "address": "Ulhasnagar",
+      "department": "Marketing",
+      "salary": "26000",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "name": "Raman",
+      "age": "25",
+      "address": "Mumbai",
+      "department": "Marketing",
+      "salary": "26000",
+      "isMarried": true,
+      "id": 3
+    },
+    {
+      "name": "Sonu ",
+      "age": "30",
+      "address": "Nodia",
+      "department": "Software Developer",
+      "salary": "28000",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "name": "Sanket",
+      "age": "26",
+      "address": "Ambernath",
+      "department": "Customer Support",
+      "salary": "30000",
+      "isMarried": true,
+      "id": 5
+    },
+    {
+      "name": "Chaitali ",
+      "age": "26",
+      "address": "Mumbai",
+      "department": "Software Developer",
+      "salary": "27000",
+      "isMarried": "",
+      "id": 6
+    },
+    {
+      "name": "Aditi",
+      "age": "27",
+      "address": "Mumbai",
+      "department": "Software Developer",
+      "salary": "27000",
+      "isMarried": "",
+      "id": 7
+    },
+    {
+      "name": "Tanmay",
+      "age": "29",
+      "address": "Mumbai",
+      "department": "Software Developer",
+      "salary": "27000",
+      "isMarried": "",
+      "id": 8
+    }
+  ]
+}
